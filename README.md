@@ -1,1 +1,8 @@
-https://github.com/Oliveemmanuel/damxzy-web.git
+damxzy-web/
+   ├── index.html
+   ├── css/
+   │     └── style.css
+   ├── js/
+   │     └── app.js
+   ├── assets/
+   └── README.txt
